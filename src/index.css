@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  background-color: #FFF7ED;
+  font-family: "Inter", Arial, Helvetica, sans-serif
+}
+
+header {
+  height: 110px;
+  display: flex;
+  align-items: center;
+  padding-block: 10px;
+}
+
+nav > a {
+  text-decoration: none;
+}
